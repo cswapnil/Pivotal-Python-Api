@@ -36,25 +36,27 @@ Starting to use.
 
 Story -
 Active Functions
-    setStoryId(story_id)
-    setStoryType(story_type)
-    setStoryDescription(story_description)
-    setStoryState(state)
+
+setStoryId(story_id)
+setStoryType(story_type)
+setStoryDescription(story_description)
+setStoryState(state)
 
 Passive Functions
-    getStoryName()
-    getStoryType()
-    getStoryDescription()
-    getStoryState()
-    getStoryId()
+getStoryName()
+getStoryType()
+getStoryDescription()
+getStoryState()
+getStoryId()
 
 Pivotal -
 Active Functions
-     setApiId(api_id)
-     setProject(project_id)
-     addAStory(story)
+
+setApiId(api_id)
+setProject(project_id)
+addAStory(story)
 
 Passive Functions
-     getApiId()
-     getProject()
-     getStories()
+getApiId()
+getProject()
+getStories()
